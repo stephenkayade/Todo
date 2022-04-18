@@ -1,0 +1,25 @@
+body {
+    background: rgba(0, 0, 0, .8);
+}
+
+ul li{
+    background: rgba(0, 0, 0, 0.1) !important;
+    border-radius: 5px;
+}
+
+.delete {
+    cursor: pointer;
+}
+
+.filter {
+    display: none !important;
+}
+
+.form-control {
+    border: 0 !important;
+}
+
+.contain {
+    max-width: 790px;
+    width: 100%;
+}
